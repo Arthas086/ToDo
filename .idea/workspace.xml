@@ -1,7 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="76cc192e-c4d7-40a4-8eeb-1f193203b7b4" name="Default Changelist" comment="" />
+    <list default="true" id="76cc192e-c4d7-40a4-8eeb-1f193203b7b4" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mongoose.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/delete.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/database.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -13,18 +22,37 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/database.js">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/server.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="15" selection-end-line="15" />
+            <state relative-caret-position="187">
+              <caret line="29" column="37" selection-start-line="29" selection-start-column="37" selection-end-line="29" selection-end-column="37" />
+              <folding>
+                <element signature="e#198#290#0" />
+                <element signature="e#326#372#0" />
+                <element signature="e#408#433#0" />
+                <element signature="e#467#497#0" />
+                <element signature="e#534#582#0" />
+                <element signature="e#618#648#0" />
+                <element signature="e#810#818#0" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/package.json">
-          <provider selected="true" editor-type-id="text-editor" />
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/mongoose.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="149">
+              <caret line="53" column="37" selection-start-line="53" selection-start-column="37" selection-end-line="53" selection-end-column="37" />
+              <folding>
+                <element signature="e#167#253#0" />
+                <element signature="e#416#506#0" />
+                <element signature="e#265#324#0" />
+                <element signature="e#469#499#0" />
+              </folding>
+            </state>
+          </provider>
         </entry>
       </file>
     </leaf>
@@ -36,25 +64,41 @@
       </list>
     </option>
   </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>DeprecationWarning</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
+        <option value="$PROJECT_DIR$/package.json" />
         <option value="$PROJECT_DIR$/database.js" />
+        <option value="$PROJECT_DIR$/insert.js" />
+        <option value="$PROJECT_DIR$/node_modules/delete.js" />
+        <option value="$PROJECT_DIR$/update.js" />
+        <option value="$PROJECT_DIR$/find.js" />
+        <option value="$PROJECT_DIR$/mongodb.js" />
+        <option value="$PROJECT_DIR$/server.js" />
+        <option value="$PROJECT_DIR$/mongoose.js" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="155" />
-    <option name="y" value="56" />
+    <option name="x" value="115" />
+    <option name="y" value="-10" />
     <option name="width" value="980" />
     <option name="height" value="1090" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -66,6 +110,7 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -74,6 +119,7 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="settings.nodejs" />
   </component>
   <component name="RunDashboard">
@@ -102,15 +148,24 @@
       <workItem from="1551907655334" duration="2617000" />
       <workItem from="1551934196927" duration="238000" />
       <workItem from="1552385736255" duration="3068000" />
+      <workItem from="1552399027708" duration="2787000" />
+      <workItem from="1552413973386" duration="1611000" />
+      <workItem from="1552459609015" duration="25000" />
+      <workItem from="1552460787453" duration="15000" />
+      <workItem from="1552467655938" duration="36000" />
+      <workItem from="1552539946033" duration="933000" />
+      <workItem from="1552593499617" duration="1570000" />
+      <workItem from="1552657410882" duration="3501000" />
+      <workItem from="1552668372373" duration="760000" />
+      <workItem from="1552672711071" duration="7783000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="6218000" />
+    <option name="totallyTimeSpent" value="25239000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="878" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24983476" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -127,7 +182,7 @@
       <window_info anchor="bottom" id="Tool Output" order="9" />
       <window_info active="true" anchor="bottom" id="Terminal" order="10" visible="true" weight="0.32573727" />
       <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
-      <window_info anchor="bottom" id="ANTLR Preview" order="12" />
+      <window_info anchor="bottom" id="ANTLR Preview" order="12" weight="0.3297587" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -137,15 +192,72 @@
     <option name="version" value="1" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/database.js">
+    <entry file="file://$PROJECT_DIR$/package.json">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="15" selection-end-line="15" />
+        <state relative-caret-position="153">
+          <caret line="9" column="19" selection-start-line="9" selection-start-column="19" selection-end-line="9" selection-end-column="19" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/package.json">
-      <provider selected="true" editor-type-id="text-editor" />
+    <entry file="file://$PROJECT_DIR$/node_modules/mongodb/lib/mongo_client.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="182">
+          <caret line="118" column="17" lean-forward="true" selection-start-line="118" selection-start-column="17" selection-end-line="118" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/jsLanguageServicesImpl/external/lib.es5.d.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="131">
+          <caret line="271" column="11" lean-forward="true" selection-start-line="271" selection-start-column="11" selection-end-line="271" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/insert.js" />
+    <entry file="file://$PROJECT_DIR$/update.js" />
+    <entry file="file://$PROJECT_DIR$/find.js" />
+    <entry file="file://$PROJECT_DIR$/node_modules/delete.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="40" selection-start-line="6" selection-start-column="40" selection-end-line="6" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/node_modules/raw-body/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="159">
+          <caret line="272" column="6" selection-start-line="272" selection-start-column="6" selection-end-line="272" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/server.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="29" column="37" selection-start-line="29" selection-start-column="37" selection-end-line="29" selection-end-column="37" />
+          <folding>
+            <element signature="e#198#290#0" />
+            <element signature="e#326#372#0" />
+            <element signature="e#408#433#0" />
+            <element signature="e#467#497#0" />
+            <element signature="e#534#582#0" />
+            <element signature="e#618#648#0" />
+            <element signature="e#810#818#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mongoose.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="149">
+          <caret line="53" column="37" selection-start-line="53" selection-start-column="37" selection-end-line="53" selection-end-column="37" />
+          <folding>
+            <element signature="e#167#253#0" />
+            <element signature="e#416#506#0" />
+            <element signature="e#265#324#0" />
+            <element signature="e#469#499#0" />
+          </folding>
+        </state>
+      </provider>
     </entry>
   </component>
 </project>
